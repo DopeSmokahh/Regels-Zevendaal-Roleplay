@@ -34,7 +34,7 @@ theme:
 copyright: Copyright &copy; 2024 Zevendaal Roleplay
 
 nav:
-    - Home: index.md
+    - Home: APV.md
     - APV Zevendaal: APV.md
     - Discord regels: Discord Regels.md
     - Offroadvoertuigen: Offroadvoertuigen.md
